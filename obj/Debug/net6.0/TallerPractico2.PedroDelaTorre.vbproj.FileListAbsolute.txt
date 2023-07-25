@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.vbproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.AssemblyInfo.vb
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\bin\Debug\net6.0\TallerPractico2.PedroDelaTorre.exe
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\bin\Debug\net6.0\TallerPractico2.PedroDelaTorre.deps.json
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\bin\Debug\net6.0\TallerPractico2.PedroDelaTorre.runtimeconfig.json
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\bin\Debug\net6.0\TallerPractico2.PedroDelaTorre.dll
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\bin\Debug\net6.0\TallerPractico2.PedroDelaTorre.pdb
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.dll
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\refint\TallerPractico2.PedroDelaTorre.dll
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.pdb
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\TallerPractico2.PedroDelaTorre.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Proyecto1.PedroDelaTorre\TallerPractico2.PedroDelaTorre\obj\Debug\net6.0\ref\TallerPractico2.PedroDelaTorre.dll
